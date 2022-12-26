@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chukwunnonso</h1>
-<h3 align="center">A fullstack developer from Nigeria</h3>
+<h3 align="center">I am a Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chukwunnonso&label=Profile%20views&color=0e75b6&style=flat" alt="chukwunnonso" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working personal projects. [Building a fullstack app](To be provided later)
 
-- 🌱 I’m currently learning Backend Engineering **Nodejs, Express, Javascript.**
+- 🌱 I’m work with **Nodejs, Express, Javascript, Mongodb, CSS, HTML, Git and GitHub.**
 
-- 👯 I’m looking to collaborate on **Fullstack projects**
+- 👯 I’m looking to collaborate on **Exciting projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
