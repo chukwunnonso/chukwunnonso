@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working personal projects. [Building a fullstack app](To be provided later)
 
-- 🌱 I’m work with **Nodejs, Express, Javascript, Mongodb, CSS, HTML, Git and GitHub.**
+- 🌱 I work with **Nodejs, Express, Javascript, Mongodb, CSS, HTML, Git and GitHub.**
 
 - 👯 I’m looking to collaborate on **Exciting projects**
 
